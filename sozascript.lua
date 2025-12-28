@@ -1,8 +1,7 @@
-```lua
 -- SOZA HUB | Fish It
 -- Original by SOZA 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sozascript/fishitbot.lua/main/soza_hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sozascript/soza-hub/main/sozascript.lua"))()
 
     -- =====================
     -- SERVICES
